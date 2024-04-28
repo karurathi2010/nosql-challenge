@@ -26,14 +26,14 @@ Mainly 3 parts for this challenge:
  
 * Part 3: Exploratory Analysis:
 This part has 4 sub parts:
-   * 1. Which establishments have a hygiene score equal to 20?
+* 1. Which establishments have a hygiene score equal to 20?
      To answer this question the following steps are performed:
        * Found the establishments with a hygiene score of 20 using find.
        * Found the number of documents using 'count_documents'.
        * Displayed the result using pprint.
        * Converted the result into dataframe.
 
-  * 2. Which establishments in London have a RatingValue greater than or equal to 4?
+* 2. Which establishments in London have a RatingValue greater than or equal to 4?
          * Found the establishments with London as the Local Authority and has a RatingValue greater than or equal to 4.
          * Found the number of documents using 'count_documents'.
          * Displayed the result using pprint.
